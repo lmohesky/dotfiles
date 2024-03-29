@@ -2,13 +2,16 @@
 
 ![Screenshot of my terminal](https://github.com/lmohesky/dotfiles/blob/main/screenshots/terminal-1.jpg)
 
-Welcome to my dotfiles repo. Below are files for:
+Welcome to my dotfiles repo. Below are files/configurations for:
 
-- ZSH configuration
-- Kitty terminal configuration
-- GNOME terminal configuration
-- GNOME icons, fonts, and themes.
-- Neofetch configuration
+- zsh
+- Kitty terminal
+- Alacritty terminal
+- Polybar
+- i3 tile manager
+- GNOME terminal
+- Various icons, fonts, and themes I like to use
+- Neofetch
 - Scripts used to install
 
 ## Supported Operating Systems
