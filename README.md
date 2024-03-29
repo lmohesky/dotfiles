@@ -14,7 +14,7 @@ Welcome to my dotfiles repo. Below are files/configurations for:
 - Various icons, fonts, and themes I like to use
 - Neofetch
 - Scripts used to install
-- Mac OS
+- Mac Terminal/iTerm
 - Oh My Posh
 - PowerShell
 
