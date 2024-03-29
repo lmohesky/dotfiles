@@ -8,7 +8,7 @@ Welcome to my dotfiles repo. Below are files/configurations for:
 - Kitty terminal
 - Alacritty terminal
 - Polybar
-- i3 tile manager
+- i3 tiling window manager
 - GNOME terminal
 - Various icons, fonts, and themes I like to use
 - Neofetch
