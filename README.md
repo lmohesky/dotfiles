@@ -5,6 +5,7 @@
 Welcome to my dotfiles repo. Below are files/configurations for:
 
 - zsh
+- Oh My Zsh
 - Kitty terminal
 - Alacritty terminal
 - Polybar
@@ -13,6 +14,9 @@ Welcome to my dotfiles repo. Below are files/configurations for:
 - Various icons, fonts, and themes I like to use
 - Neofetch
 - Scripts used to install
+- Mac OS
+- Oh My Posh
+- PowerShell
 
 ## Supported Operating Systems
 * Linux
