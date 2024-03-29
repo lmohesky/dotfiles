@@ -11,5 +11,7 @@ Welcome to my dotfiles repo. Below are files for:
 - Neofetch configuration
 - Scripts used to install
 
-## Requirements
+## Supported Operating Systems
 * Linux
+* MacOS (for Mac Terminal files)
+* Windows (for PowerShell files)
