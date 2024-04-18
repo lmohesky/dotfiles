@@ -8,6 +8,7 @@ Welcome to my dotfiles repo. Below are files/configurations for:
 - Oh My Zsh
 - Kitty terminal
 - Alacritty terminal
+- Windows Terminal
 - Polybar
 - i3 tiling window manager
 - GNOME terminal
